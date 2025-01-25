@@ -14,6 +14,7 @@ By the end of this assignment, you should be able to:
 1. **Read the following materials**:
    - [W3Schools Java](https://www.w3schools.com/java/default.asp) 
     Please read "Java HOME" through "JAVA Booleans"
+  - Java Installation Please install Java version 21 from this website! All you need to do is download the ".deb" from the website and run it
    
 2. **Complete the following tasks**:
 
