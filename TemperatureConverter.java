@@ -18,7 +18,7 @@ public class TemperatureConverter {
          //convert degrees in fahrenheit to degrees in celsius by taking 32 away from the inputted degrees in Fahrenheit
          //and multiplying this value by 5/9 to determine the degrees in celsius
 
-         // #### Assignment Ends Here ####
+         // #### Assignment Ends Here #### 
 
         System.out.println(degreesInFahrenheit + " to Celsius is: " + degreesInCelsius);
 
